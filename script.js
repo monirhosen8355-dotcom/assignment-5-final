@@ -161,7 +161,6 @@ display(filtered)
 
 
 
-// MODAL
 
 function openModal(issue){
 
