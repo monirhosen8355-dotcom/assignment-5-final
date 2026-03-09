@@ -199,7 +199,4 @@ document.getElementById("modal").style.display="none"
 
 }
 
-
-// START
-
 loadIssues()
