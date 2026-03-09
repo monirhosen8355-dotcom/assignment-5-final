@@ -159,9 +159,6 @@ display(filtered)
 
 })
 
-
-
-
 function openModal(issue){
 
 document.getElementById("modal").style.display="flex"
