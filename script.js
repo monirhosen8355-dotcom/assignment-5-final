@@ -143,8 +143,6 @@ setActive(closedBtn)
 }
 
 
-// SEARCH
-
 searchInput.addEventListener("input",function(){
 
 const text=this.value.toLowerCase()
